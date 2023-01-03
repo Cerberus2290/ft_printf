@@ -24,7 +24,7 @@
 
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/ft_printf/edit/main/README.md#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/ft_printf/blob/main/README.md#-beware-">back to top</a>
 </p>
 
 # <a name="ex01">Exercise 01 : ft_print_alphabet</a>
