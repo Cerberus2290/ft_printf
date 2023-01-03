@@ -21,7 +21,7 @@
 | You will discover **variadic functions** in C. |
 | The key to a successful **ft_printf** is a well-structured and extensible code. |
 
-
+❕ Once this assignment passed, you will be allowed to add your ft_printf() to your libft so you can use it in your school C projects. ❕
 
 <p align="right">
  <a href="https://github.com/Cerberus2290/ft_printf/blob/main/README.md#-beware-">back to top</a>
