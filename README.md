@@ -15,16 +15,16 @@
 
 # <a name="intro">Introduction</a>
 
-| ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) | Introduction |
+| Introduction | ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) |
 |-------------------------------------------------------|--------------------------------------------------|
-| You will discover a popular and versatile C function: printf(). This exercise is a great opportunity to improve your programming skills. It is of moderate difficulty. |
+| You will discover a popular and versatile C function: printf(). This exercise is a great opportunity <br>to improve your programming skills. It is of moderate difficulty. |
 | You will discover **variadic functions** in C. |
 | The key to a successful **ft_printf** is a well-structured and extensible code. |
 
 
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c00#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/ft_printf/edit/main/README.md#-beware-">back to top</a>
 </p>
 
 # <a name="ex01">Exercise 01 : ft_print_alphabet</a>
