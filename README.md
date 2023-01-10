@@ -43,7 +43,7 @@
 | Submit your work to your assigned git repository. Only the work in the git reposi-<br>tory will be graded. If Deepthought is assigned to grade your work, it will be done <br>after your peer-evaluations. If an error happens in any section of your work during <br>Deepthought’s grading, the evaluation will stop. |
 
 <p align="right">
- <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c00#-beware-">back to top</a>
+ <a href="https://github.com/Cerberus2290/ft_printf/blob/main/README.md#-beware-">back to top</a>
 </p>
 
 # <a name="ex02">Exercise 02 : ft_print_reverse_alphabet</a>
