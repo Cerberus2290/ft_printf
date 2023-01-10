@@ -27,22 +27,20 @@
  <a href="https://github.com/Cerberus2290/ft_printf/blob/main/README.md#-beware-">back to top</a>
 </p>
 
-# <a name="ex01">Exercise 01 : ft_print_alphabet</a>
+# <a name="common">Common Instructions</a>
 
-| ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) | Exercise 01 |
+| Common Instructions | ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) |
 |-------------------------------------------------------|--------------------------------------------------|
-| | ft_print_alphabet.c |
-| Turn-in directory: | ex01/ |
-| Files to turn in: | ft_print_alphabet.c |
-| Allowed functions: | write |
-
-* Create a function that displays the alphabet in lowercase, on a single line, by ascending order, starting from the letter ’a’.
-
-* Here’s how it should be prototyped:
-
-```C
-void ft_print_alphabet(void)
-```
+| Your project must be written in C. |
+| Your project must be written in accordance with the Norm. If you have bonus <br>files/functions, they are included in the norm check and you will receive a 0 if there <br>is a norm error inside. |
+| Your functions should not quit unexpectedly (segmentation fault, bus error, double <br>free, etc) apart from undefined behaviors. If this happens, your project will be <br>considered non functional and will receive a 0 during the evaluation. |
+| All heap allocated memory space must be properly freed when necessary. No leaks <br>will be tolerated. |
+| If the subject requires it, you must submit a **Makefile** which will compile your <br>source files to the required output with the flags **-Wall**, **-Wextra** and **-Werror**, use <br>cc, and your Makefile must not relink. |
+| Your Makefile must at least contain the rules **$(NAME)**, **all**, **clean**, **fclean** and **re**.|
+| To turn in bonuses to your project, you must include a rule bonus to your Makefile, <br>which will add all the various headers, librairies or functions that are forbidden on <br>the main part of the project. Bonuses must be in a different file **_bonus.{c/h}** if <br>the subject does not specify anything else. Mandatory and bonus part evaluation <br>is done separately. |
+| If your project allows you to use your **libft**, you must copy its sources and its <br>associated **Makefile** in a **libft** folder with its associated Makefile. Your project’s <br>**Makefile** must compile the library by using its **Makefile**, then compile the project. |
+| We encourage you to create test programs for your project even though this work <br>**won’t have to be submitted and won’t be graded**. It will give you a chance <br>to easily test your work and your peers’ work. You will find those tests especially <br>useful during your defence. Indeed, during defence, you are free to use your tests <br>and/or the tests of the peer you are evaluating. |
+| Submit your work to your assigned git repository. Only the work in the git reposi-<br>tory will be graded. If Deepthought is assigned to grade your work, it will be done <br>after your peer-evaluations. If an error happens in any section of your work during <br>Deepthought’s grading, the evaluation will stop. |
 
 <p align="right">
  <a href="https://github.com/Cerberus2290/Piscine_Nov22/tree/main/c00#-beware-">back to top</a>
