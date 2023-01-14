@@ -100,7 +100,7 @@ Bonus list:
 * Manage any combination of the following flags: ’**-0**.’ and the field minimum width under all conversions.
 * Manage all the following flags: ’**# +**’ (Yes, one of them is a space)
 
-## :lightbulb: If you plan to complete the bonus part, think about the <br>implementation of your extra features from the start. This way, <br>you will avoid the pitfalls of a naive approach. :lightbulb:
+## :bulb: If you plan to complete the bonus part, think about the <br>implementation of your extra features from the start. This way, <br>you will avoid the pitfalls of a naive approach. :bulb:
 
 ## :exclamation: The bonus part will only be assessed if the mandatory part is **PERFECT**. Perfect means the mandatory part has been integrally done and works without malfunctioning. If you have not passed ALL the mandatory requirements, your bonus part will not be evaluated at all. :exclamation:
 
